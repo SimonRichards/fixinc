@@ -10,3 +10,20 @@
 *.lai
 *.la
 *.a
+
+# Compiled assemblies
+*.exe
+
+
+# Visual Studio output
+*.pdb
+Debug
+Release
+*/Debug
+*/Release
+*.sdf
+*.user
+*.ipch
+
+# Resharper
+_ReSharper.fixinc
