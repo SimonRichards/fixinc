@@ -1,0 +1,3 @@
+[submodule "clang-sharp"]
+	path = clang-sharp
+	url = git://github.com/SimonRichards/clang-sharp
